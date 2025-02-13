@@ -6,7 +6,7 @@ import { client } from '@/sanity/lib/client'
 import { urlFor } from '@/sanity/lib/image'
 import { Button } from '@/components/ui/button'
 import AddToCartButton from '@/components/AddToCart'
-import { Star, Truck, ArrowRight } from 'lucide-react'
+import { Truck, ArrowRight } from 'lucide-react'
 import { Product } from '@/types/product'
 
 interface ProductPageProps {
